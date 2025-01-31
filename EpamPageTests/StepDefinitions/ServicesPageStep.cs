@@ -30,7 +30,7 @@ namespace EpamPageTests.StepDefinitions
         {
             _servicesPage.ClickButtonNav();
             _servicesPage.ClickServicesDrop();
-            _servicesPage.ClickAiServicesDrop();
+            _servicesPage.ClickAiServicesDrop(service);
             _servicesPage.SelectService(service);
         }
 

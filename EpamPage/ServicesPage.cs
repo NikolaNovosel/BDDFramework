@@ -55,7 +55,7 @@ namespace EpamPage
             Log.Information("Clicks on the button to open the droprown menu");
             ButtonNav.Click();
 
-            Log.Information("Wait for the Services dropdown item to be displayed");
+            Log.Information("Wait for the Services dropdown item to be displayed and enabled");
             Wait.Until(driver => ServicesDrop);
         }
 
@@ -66,6 +66,9 @@ namespace EpamPage
             {
                 Log.Information("Clicked the Services dropdown item");
                 ServicesDrop.Click();
+
+                Log.Information("Wait for Artificial intelligence dropdown item be displayed and enabled");
+                Wait.Until(driver => AiServicesDrop);
             }
 
             catch (ElementClickInterceptedException ex)
@@ -86,7 +89,7 @@ namespace EpamPage
         }
 
         // Clicks on the Artificial intelligence dropdown item within the Services dropdown.
-        public void ClickAiServicesDrop()
+        public void ClickAiServicesDrop(string service)
         {
             Log.Information("Services dropdown item clicked");
 
@@ -94,6 +97,11 @@ namespace EpamPage
             {
                 Log.Information("Clicks on the Artificial intelligence dropdown item");
                 AiServicesDrop.Click();
+
+                Log.Information("Wait for the selected item to be displayed and enabled");
+                Wait.Until(driver => 
+                AiServicesDrop.FindElement(By.PartialLinkText(service)).Displayed &&
+                AiServicesDrop.FindElement(By.PartialLinkText(service)).Enabled);
             }
             catch (ElementClickInterceptedException ex)
             {
