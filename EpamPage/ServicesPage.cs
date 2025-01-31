@@ -53,7 +53,10 @@ namespace EpamPage
         public void ClickButtonNav()
         {
             Log.Information("Clicks on the button to open the droprown menu");
-            ButtonNav.Click(); 
+            ButtonNav.Click();
+
+            Log.Information("Wait for the Services dropdown item to be displayed");
+            Wait.Until(driver => ServicesDrop);
         }
 
         // Clicks on the Services dropdown item within the dropdown menu.
@@ -65,7 +68,7 @@ namespace EpamPage
                 ServicesDrop.Click();
             }
 
-            catch (ElementNotInteractableException ex)
+            catch (ElementClickInterceptedException ex)
             {
                 Log.Error($"Error: {ex.Message}");
 
