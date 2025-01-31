@@ -1,0 +1,60 @@
+2025-01-30 23:32:16.050 +01:00 [INF] Navigates to the About page
+2025-01-30 23:32:21.429 +01:00 [INF] Scrolls to "Epam At Glance section"
+2025-01-30 23:32:21.832 +01:00 [INF] Try to click the download button
+2025-01-30 23:32:27.484 +01:00 [INF] Scenario passed: Validate that the "EPAM Company Overview" file can be downloaded
+2025-01-30 23:32:47.875 +01:00 [INF] Navigates to the Careers page
+2025-01-30 23:33:46.022 +01:00 [INF] Enters a keyword into the search field
+2025-01-30 23:33:46.861 +01:00 [INF] Try to open the location dropdown list
+2025-01-30 23:33:48.434 +01:00 [INF] The location dropdown opened
+2025-01-30 23:33:48.435 +01:00 [INF] Selects all locations
+2025-01-30 23:33:49.342 +01:00 [INF] Try to check the remote filter
+2025-01-30 23:33:49.817 +01:00 [INF] The remote filter checked
+2025-01-30 23:33:49.818 +01:00 [INF] Submits the job search
+2025-01-30 23:33:54.085 +01:00 [INF] Try to open the latest job result
+2025-01-30 23:33:59.091 +01:00 [ERR] Error: Element <a class="button-text primary-button-preset white-background-preset search-result__item-apply-23" href="https://www.epam.com/careers/job-listings/job.epamgdo_blt91c6747c9117a35d_en-us_Other_Argentina.remote_net-developer"> is not clickable at point (1089,652) because another element <div id="onetrust-group-container" class="ot-sdk-eight ot-sdk-columns"> obscures it
+2025-01-30 23:33:59.092 +01:00 [INF] Wait for the cookie to be displayed
+2025-01-30 23:33:59.580 +01:00 [INF] Execute java script to set cookie display to none
+2025-01-30 23:33:59.617 +01:00 [INF] Open the latest job result
+2025-01-30 23:34:08.621 +01:00 [INF] Error gracefully handled
+2025-01-30 23:34:09.397 +01:00 [INF] Scenario passed: Search for a job based on criteria
+2025-01-30 23:34:37.005 +01:00 [INF] Navigate to the Insights page
+2025-01-30 23:34:41.323 +01:00 [INF] Swipes the carousel
+2025-01-30 23:34:42.066 +01:00 [INF] Swipes the carousel
+2025-01-30 23:34:42.754 +01:00 [INF] Try to wait for the main article to be displayed
+2025-01-30 23:34:47.832 +01:00 [ERR] Error: Timed out after 5 seconds
+2025-01-30 23:34:47.832 +01:00 [INF] Swipes the carousel
+2025-01-30 23:34:48.402 +01:00 [INF] Error gracefully handled
+2025-01-30 23:34:48.458 +01:00 [INF] Main article displayed
+2025-01-30 23:34:48.458 +01:00 [INF] Try to click the Read More button in the carousel
+2025-01-30 23:34:51.914 +01:00 [INF] Scenario passed: Validate title of the article matches with title in the carousel
+2025-01-30 23:35:10.510 +01:00 [INF] Opens the search bar
+2025-01-30 23:35:11.468 +01:00 [INF] Enters the search string
+2025-01-30 23:35:11.934 +01:00 [INF] Submits the search
+2025-01-30 23:35:14.633 +01:00 [INF] Scroll to the last link
+2025-01-30 23:35:15.651 +01:00 [INF] Scenario passed: Navigate to the Epam page and perform a search
+2025-01-30 23:35:31.962 +01:00 [INF] Opens the search bar
+2025-01-30 23:35:32.812 +01:00 [INF] Enters the search string
+2025-01-30 23:35:32.942 +01:00 [INF] Submits the search
+2025-01-30 23:35:34.840 +01:00 [INF] Scroll to the last link
+2025-01-30 23:35:35.875 +01:00 [INF] Scenario passed: Navigate to the Epam page and perform a search
+2025-01-30 23:35:51.919 +01:00 [INF] Opens the search bar
+2025-01-30 23:35:52.367 +01:00 [INF] Enters the search string
+2025-01-30 23:35:52.533 +01:00 [INF] Submits the search
+2025-01-30 23:35:54.841 +01:00 [INF] Scroll to the last link
+2025-01-30 23:35:55.742 +01:00 [INF] Scenario passed: Navigate to the Epam page and perform a search
+2025-01-30 23:36:11.122 +01:00 [INF] Clicks on the Services link
+2025-01-30 23:36:17.365 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-01-30 23:36:17.796 +01:00 [INF] Clicked the Services dropdown item
+2025-01-30 23:36:18.293 +01:00 [INF] Services dropdown item clicked
+2025-01-30 23:36:18.293 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-01-30 23:36:18.759 +01:00 [INF] Artificial intelligence dropdown item clicked
+2025-01-30 23:36:19.020 +01:00 [INF] Try to select a specific service from the available options
+2025-01-30 23:36:23.025 +01:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content
+2025-01-30 23:36:38.179 +01:00 [INF] Clicks on the Services link
+2025-01-30 23:36:42.325 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-01-30 23:36:42.615 +01:00 [INF] Clicked the Services dropdown item
+2025-01-30 23:36:43.009 +01:00 [INF] Services dropdown item clicked
+2025-01-30 23:36:43.009 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-01-30 23:36:43.414 +01:00 [INF] Artificial intelligence dropdown item clicked
+2025-01-30 23:36:43.708 +01:00 [INF] Try to select a specific service from the available options
+2025-01-30 23:36:47.152 +01:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content
