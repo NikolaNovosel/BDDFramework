@@ -42,10 +42,7 @@ namespace EpamPageTests.StepDefinitions
         [Then(@"All search results should contain the search term ""([^""]*)""")]
         public void ThenAllSearchResultsShouldContainTheSearchTerm(string keyword)
         {
-            if (keyword == "Cloud")
-                _searchPage.CheckIfAllLinksContainKeyword(keyword).Should().BeTrue();
-            else if(keyword != "Cloud")
-                _searchPage.CheckIfAllLinksContainKeyword(keyword).Should().BeFalse();
+            _searchPage.CheckIfAllLinksContainKeyword(keyword).Should().BeFalse();
         }
     }
 }

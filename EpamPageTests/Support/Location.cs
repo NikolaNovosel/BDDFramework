@@ -15,6 +15,9 @@
         // Path to test data json
         internal static readonly string Log = Path.Combine(_projectPath, "log", "log.txt");
 
+        // Path to download directory
+        internal static readonly string Download = Path.Combine(_projectPath, "download");
+
         // Path to test data json
         internal static readonly string ScreenShot = Path.Combine(_projectPath);
     }

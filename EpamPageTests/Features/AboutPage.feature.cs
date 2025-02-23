@@ -119,8 +119,8 @@ this.FeatureBackground();
        testRunner.And("I click on the Download button", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
 #line 8
-      testRunner.Then("I should have the file \"EPAM_Corporate_Overview_Q4_EOY.pdf\" downloaded within fiv" +
-                        "e seconds", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+      testRunner.Then("I should have the file \"EPAM_Corporate_Overview_Q4FY-2024.pdf\" downloaded within " +
+                        "five seconds", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }
             this.ScenarioCleanup();

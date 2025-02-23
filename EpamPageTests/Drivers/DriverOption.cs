@@ -15,7 +15,7 @@ namespace EpamPageTests.Drivers
         {
             var chromeOptions = new ChromeOptions();
             chromeOptions.AddArgument("headless");
-            chromeOptions.AddUserProfilePreference("download.default_directory", ConfigReader.Config["downloadDir"]);
+            chromeOptions.AddUserProfilePreference("download.default_directory", Location.Download);
             return chromeOptions;
         }
 
@@ -24,7 +24,7 @@ namespace EpamPageTests.Drivers
         {
             var firefoxOptions = new FirefoxOptions();
             firefoxOptions.SetPreference("browser.download.folderList", 2);
-            firefoxOptions.SetPreference("browser.download.dir", ConfigReader.Config["downloadDir"]);
+            firefoxOptions.SetPreference("browser.download.dir", Location.Download);
             firefoxOptions.AddArgument("--headless");
             return firefoxOptions;
         }
@@ -34,7 +34,7 @@ namespace EpamPageTests.Drivers
         {
             var edgeOptions = new EdgeOptions();
             edgeOptions.AddArgument("--headless");
-            edgeOptions.AddUserProfilePreference("download.default_directory", ConfigReader.Config["downloadDir"]);
+            edgeOptions.AddUserProfilePreference("download.default_directory", Location.Download);
             return edgeOptions;
         }
     }

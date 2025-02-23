@@ -13,11 +13,11 @@ namespace EpamPageTests.Support
         private static bool HasTimeElapsed => DateTime.Now < _startTime.AddSeconds(5);
 
         // Path to the downloaded file
-        private static string GetPath(string fileName) =>
-        Path.Combine(ConfigReader.Config["downloadDir"]!, fileName);
+        private static string GetFilePath(string fileName) =>
+        Path.Combine(Location.Download, fileName);
 
         // Checks if the file exists at the specified path
-        internal static bool FileExist(string fileName) => File.Exists(GetPath(fileName));
+        internal static bool FileExist(string fileName) => File.Exists(GetFilePath(fileName));
 
         // Waits for the file to download within the specified time frame
         internal static bool WaitForFileDownload(string fileName)
