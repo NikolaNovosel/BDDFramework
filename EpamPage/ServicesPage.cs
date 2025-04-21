@@ -19,18 +19,10 @@ namespace EpamPage
         private IWebElement ButtonNav => Driver.FindElement(By.XPath("//button[@class='hamburger-menu__button']"));
 
         // Services dropdown item within the dropdown menu
-        private IWebElement ServicesDrop => Wait.Until(driver => 
-        { 
-            var element = Driver.FindElement(By.XPath("//div[@class='os-padding']/div[1]/div[1]/li[1]"));
-            return element.Displayed && element.Enabled ? element : null;
-        });
+        private IWebElement ServicesDrop => Driver.FindElement(By.XPath("//div[@class='os-padding']/div[1]/div[1]/li[1]"));
 
         // Artifical intelligence dropdown item within the Services dropdown.
-        private IWebElement AiServicesDrop => Wait.Until(driver=> 
-        { 
-            var element = ServicesDrop.FindElement(By.XPath("./ul/li[5]")); 
-            return element.Displayed && element.Enabled ? element : null;
-        });
+        private IWebElement AiServicesDrop => ServicesDrop.FindElement(By.XPath("./ul/li[5]"));
 
         // Parent element containing the page title
         private IWebElement ParentPageTitle => Driver.FindElement(By.XPath("//main[@id='main']/div[1]/div[2]"));
@@ -46,17 +38,14 @@ namespace EpamPage
         // Clicks on the Services link in the main navigation bar
         public void ClickServices()
         {
-            Log.Information("Clicks on the Services link");
+            Log.Information("Click on the Services link");
             Services.Click();
         }
         // Clicks on the button to open the dropdown menu
         public void ClickButtonNav()
         {
-            Log.Information("Clicks on the button to open the droprown menu");
+            Log.Information("Click on the button to open the droprown menu");
             ButtonNav.Click();
-
-            Log.Information("Wait for the Services dropdown item to be displayed and enabled");
-            Wait.Until(driver => ServicesDrop);
         }
 
         // Clicks on the Services dropdown item within the dropdown menu.
@@ -64,16 +53,16 @@ namespace EpamPage
         {
             try
             {
+                Log.Information("Wait for the Services dropdown item to be displayed and enabled");
+                Wait.Until(driver => ServicesDrop.Enabled);
+
                 Log.Information("Clicked the Services dropdown item");
                 ServicesDrop.Click();
-
-                Log.Information("Wait for Artificial intelligence dropdown item be displayed and enabled");
-                Wait.Until(driver => AiServicesDrop);
             }
 
             catch (ElementClickInterceptedException ex)
             {
-                Log.Error($"Error: {ex.Message}");
+                Log.Error(ex.Message);
 
                 Log.Information("Wait for the cookie to be displayed");
                 Wait.Until(driver => Cookie.Displayed && Cookie.Enabled);
@@ -86,6 +75,39 @@ namespace EpamPage
 
                 Log.Information("Error gracefully handled");
             }
+
+            catch (ElementNotInteractableException ex)
+            {
+                Log.Error(ex.Message);
+
+                Log.Information("Click on the button to open the droprown menu");
+                ButtonNav.Click();
+
+                Log.Information("Click on the Artificial intelligence dropdown item");
+                ServicesDrop.Click();
+            }
+
+            catch (NoSuchElementException ex)
+            {
+                Log.Error(ex.Message);
+
+                Log.Information("Click on the button to open the droprown menu");
+                ButtonNav.Click();
+
+                Log.Information("Click on the Artificial intelligence dropdown item");
+                ServicesDrop.Click();
+            }
+
+            catch (WebDriverTimeoutException ex)
+            {
+                Log.Error(ex.Message);
+
+                Log.Information("Click on the button to open the droprown menu");
+                ButtonNav.Click();
+
+                Log.Information("Click on the Artificial intelligence dropdown item");
+                ServicesDrop.Click();
+            }
         }
 
         // Clicks on the Artificial intelligence dropdown item within the Services dropdown.
@@ -95,17 +117,16 @@ namespace EpamPage
 
             try
             {
-                Log.Information("Clicks on the Artificial intelligence dropdown item");
-                AiServicesDrop.Click();
+                Log.Information("Wait for Artificial intelligence dropdown item be displayed and enabled");
+                Wait.Until(driver => AiServicesDrop.Enabled);
 
-                Log.Information("Wait for the selected item to be displayed and enabled");
-                Wait.Until(driver => 
-                AiServicesDrop.FindElement(By.PartialLinkText(service)).Displayed &&
-                AiServicesDrop.FindElement(By.PartialLinkText(service)).Enabled);
+                Log.Information("Click on the Artificial intelligence dropdown item");
+                AiServicesDrop.Click();
             }
+
             catch (ElementClickInterceptedException ex)
             {
-                Log.Error($"Error: {ex.Message}");
+                Log.Error(ex.Message);
 
                 Log.Information("Wait for the cookie to be displayed");
                 Wait.Until(driver => Cookie.Displayed && Cookie.Enabled);
@@ -117,6 +138,39 @@ namespace EpamPage
                 AiServicesDrop.Click();
 
                 Log.Information("Error gracefully handled");
+            }
+
+            catch (ElementNotInteractableException ex)
+            {
+                Log.Error(ex.Message);
+
+                Log.Information("Click on the button to open the droprown menu");
+                ButtonNav.Click();
+
+                Log.Information("Click on the Artificial intelligence dropdown item");
+                AiServicesDrop.Click();
+            }
+
+            catch (NoSuchElementException ex)
+            {
+                Log.Error(ex.Message);
+
+                Log.Information("Click on the button to open the droprown menu");
+                ButtonNav.Click();
+
+                Log.Information("Click on the Artificial intelligence dropdown item");
+                AiServicesDrop.Click();
+            }
+
+            catch (WebDriverTimeoutException ex)
+            {
+                Log.Error(ex.Message);
+
+                Log.Information("Click on the button to open the droprown menu");
+                ButtonNav.Click();
+
+                Log.Information("Click on the Artificial intelligence dropdown item");
+                AiServicesDrop.Click();
             }
         }
 
@@ -125,20 +179,19 @@ namespace EpamPage
         {
             Log.Information("Artificial intelligence dropdown item clicked");
 
-            var selected = Wait.Until(driver =>
-            {
-                var element = AiServicesDrop.FindElement(By.PartialLinkText(service));
-                return element.Displayed && element.Enabled ? element : null;
-            });
-
             try
             {
+                Log.Information("Wait for the selected item to be enabled");
+                Wait.Until(driver => AiServicesDrop.FindElement(By.PartialLinkText(service)).Enabled);
+
+                var selected = AiServicesDrop.FindElement(By.PartialLinkText(service));
+
                 Log.Information("Try to select a specific service from the available options");
                 selected.Click();
             }
             catch (ElementClickInterceptedException ex)
             {
-                Log.Error($"Error: {ex.Message}");
+                Log.Error(ex.Message);
 
                 Log.Information("Wait for the cookie to be displayed");
                 Wait.Until(driver => Cookie.Displayed && Cookie.Enabled);
@@ -147,9 +200,46 @@ namespace EpamPage
                 Driver.ExecuteJavaScript("document.querySelector('#onetrust-banner-sdk').style.display='none'");
 
                 Log.Information("Try selects a specific service from the available options");
+                var selected = AiServicesDrop.FindElement(By.PartialLinkText(service));
                 selected.Click();
 
                 Log.Information("Error gracefully handled");
+            }
+
+            catch (ElementNotInteractableException ex)
+            {
+                Log.Error(ex.Message);
+
+                Log.Information("Click on the button to open the droprown menu");
+                ButtonNav.Click();
+
+                Log.Information("Try selects a specific service from the available options");
+                var selected = AiServicesDrop.FindElement(By.PartialLinkText(service));
+                selected.Click();
+            }
+
+            catch (NoSuchElementException ex)
+            {
+                Log.Error(ex.Message);
+
+                Log.Information("Click on the button to open the droprown menu");
+                ButtonNav.Click();
+
+                Log.Information("Try selects a specific service from the available options");
+                var selected = AiServicesDrop.FindElement(By.PartialLinkText(service));
+                selected.Click();
+            }
+
+            catch (WebDriverTimeoutException ex)
+            {
+                Log.Error(ex.Message);
+
+                Log.Information("Click on the button to open the droprown menu");
+                ButtonNav.Click();
+
+                Log.Information("Try selects a specific service from the available options");
+                var selected = AiServicesDrop.FindElement(By.PartialLinkText(service));
+                selected.Click();
             }
         }
 

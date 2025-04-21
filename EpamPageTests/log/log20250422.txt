@@ -1,0 +1,452 @@
+2025-04-22 00:00:47.385 +02:00 [INF] Click on the Services link
+2025-04-22 00:00:52.224 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:00:52.872 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:00:53.172 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:00:53.832 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:00:53.832 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:00:53.982 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:00:54.494 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:00:54.514 +02:00 [ERR] Error message: Element <li class="hamburger-menu__item third-level-item--collapsed "> could not be scrolled into view
+2025-04-22 00:00:55.044 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_000055.png
+2025-04-22 00:01:12.743 +02:00 [INF] Click on the Services link
+2025-04-22 00:01:17.032 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:01:17.631 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:01:17.901 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:01:18.410 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:01:18.411 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:01:18.461 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:01:18.843 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:01:18.844 +02:00 [INF] Wait for the selected item to be displayed and enabled
+2025-04-22 00:01:24.355 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:01:24.355 +02:00 [ERR] Error message: Timed out after 5 seconds
+2025-04-22 00:01:24.767 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_000124.png
+2025-04-22 00:03:14.859 +02:00 [INF] Click on the Services link
+2025-04-22 00:03:20.251 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:03:20.729 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:03:21.200 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:03:21.214 +02:00 [ERR] Error message: Element <li class="  hamburger-menu__item item--collapsed "> could not be scrolled into view
+2025-04-22 00:03:21.717 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_000321.png
+2025-04-22 00:03:40.324 +02:00 [INF] Click on the Services link
+2025-04-22 00:03:45.096 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:03:45.514 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:03:46.135 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:03:46.136 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:03:46.582 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:03:46.798 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:03:46.798 +02:00 [ERR] Error message: Unable to locate element: Responsible AI; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+2025-04-22 00:03:47.167 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_000347.png
+2025-04-22 00:04:32.558 +02:00 [INF] Click on the Services link
+2025-04-22 00:04:37.263 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:04:37.799 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:04:38.350 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:04:38.351 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:04:38.825 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:04:39.228 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:04:39.253 +02:00 [ERR] Error message: Unable to locate element: Generative AI; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+2025-04-22 00:04:39.853 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_000439.png
+2025-04-22 00:04:57.858 +02:00 [INF] Click on the Services link
+2025-04-22 00:05:02.277 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:05:02.899 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:05:03.542 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:05:03.542 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:05:03.905 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:05:04.066 +02:00 [INF] Try to select a specific service from the available options
+2025-04-22 00:05:04.150 +02:00 [ERR] Element <a class="hamburger-menu__link" href="/services/artificial-intelligence/responsible-ai"> is not clickable at point (36,476) because another element <div> obscures it
+2025-04-22 00:05:04.150 +02:00 [INF] Wait for the cookie to be displayed
+2025-04-22 00:05:04.262 +02:00 [INF] Execute java script to set cookie display to none
+2025-04-22 00:05:04.298 +02:00 [INF] Try selects a specific service from the available options
+2025-04-22 00:05:04.327 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:05:04.327 +02:00 [ERR] Error message: Element <a class="hamburger-menu__link" href="/services/artificial-intelligence/responsible-ai"> could not be scrolled into view
+2025-04-22 00:05:04.629 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_000504.png
+2025-04-22 00:06:27.341 +02:00 [INF] Click on the Services link
+2025-04-22 00:06:33.602 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:06:34.190 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:06:34.503 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:06:34.525 +02:00 [ERR] Error message: Element <li class="  hamburger-menu__item item--collapsed "> could not be scrolled into view
+2025-04-22 00:06:34.969 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_000634.png
+2025-04-22 00:06:53.216 +02:00 [INF] Click on the Services link
+2025-04-22 00:06:58.934 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:06:59.383 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:06:59.461 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:06:59.461 +02:00 [ERR] Error message: Element <li class="  hamburger-menu__item item--collapsed "> could not be scrolled into view
+2025-04-22 00:06:59.891 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_000659.png
+2025-04-22 00:10:19.703 +02:00 [INF] Click on the Services link
+2025-04-22 00:10:26.867 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:10:27.349 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:10:27.456 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:10:28.179 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:10:28.179 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:10:28.330 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:10:28.814 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:10:28.815 +02:00 [INF] Wait for the selected item to be displayed and enabled
+2025-04-22 00:10:34.632 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:10:34.657 +02:00 [ERR] Error message: Timed out after 5 seconds
+2025-04-22 00:10:35.425 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_001035.png
+2025-04-22 00:10:53.506 +02:00 [INF] Click on the Services link
+2025-04-22 00:10:59.060 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:10:59.522 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:10:59.547 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:11:00.245 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:11:00.245 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:11:00.372 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:11:08.025 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:11:08.025 +02:00 [INF] Wait for the selected item to be displayed and enabled
+2025-04-22 00:11:13.582 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:11:13.582 +02:00 [ERR] Error message: Timed out after 5 seconds
+2025-04-22 00:11:13.889 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_001113.png
+2025-04-22 00:11:58.024 +02:00 [INF] Click on the Services link
+2025-04-22 00:12:03.063 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:12:03.551 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:12:03.721 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:12:04.366 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:12:04.366 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:12:04.532 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:12:04.901 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:12:04.930 +02:00 [ERR] Error message: Element <li class="hamburger-menu__item third-level-item--collapsed "> could not be scrolled into view
+2025-04-22 00:12:05.509 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_001205.png
+2025-04-22 00:12:23.695 +02:00 [INF] Click on the Services link
+2025-04-22 00:12:28.067 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:12:28.488 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:12:28.528 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:12:29.064 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:12:29.064 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:12:29.170 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:12:29.627 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:12:29.628 +02:00 [INF] Wait for the selected item to be displayed and enabled
+2025-04-22 00:12:35.152 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:12:35.152 +02:00 [ERR] Error message: Timed out after 5 seconds
+2025-04-22 00:12:35.447 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_001235.png
+2025-04-22 00:14:54.853 +02:00 [INF] Click on the Services link
+2025-04-22 00:15:00.109 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:15:00.575 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:15:00.647 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:15:01.362 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:15:01.365 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:15:01.477 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:15:02.292 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:15:02.308 +02:00 [ERR] Error message: Element <li class="hamburger-menu__item third-level-item--collapsed "> could not be scrolled into view
+2025-04-22 00:15:02.793 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_001502.png
+2025-04-22 00:15:19.906 +02:00 [INF] Click on the Services link
+2025-04-22 00:15:25.296 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:15:25.743 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:15:25.894 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:15:26.493 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:15:26.493 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:15:26.605 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:15:27.037 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:15:27.203 +02:00 [INF] Wait for the selected item to be displayed and enabled
+2025-04-22 00:15:27.363 +02:00 [INF] Try to select a specific service from the available options
+2025-04-22 00:15:31.941 +02:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:18:39.652 +02:00 [INF] Click on the Services link
+2025-04-22 00:18:45.009 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:18:45.679 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:18:45.757 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:18:46.160 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:18:46.194 +02:00 [ERR] Error message: Element <li class="  hamburger-menu__item item--collapsed "> could not be scrolled into view
+2025-04-22 00:18:46.622 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_001846.png
+2025-04-22 00:19:05.277 +02:00 [INF] Click on the Services link
+2025-04-22 00:19:10.258 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:19:10.889 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:19:10.904 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:19:11.427 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:19:11.427 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:19:11.596 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:19:11.765 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:19:11.766 +02:00 [ERR] Error message: ReferenceError: argument is not defined
+2025-04-22 00:19:12.222 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_001912.png
+2025-04-22 00:21:24.909 +02:00 [INF] Click on the Services link
+2025-04-22 00:21:30.194 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:21:30.835 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:21:30.872 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:21:31.247 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:21:31.266 +02:00 [ERR] Error message: Element <li class="  hamburger-menu__item item--collapsed "> could not be scrolled into view
+2025-04-22 00:21:31.794 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_002131.png
+2025-04-22 00:21:50.177 +02:00 [INF] Click on the Services link
+2025-04-22 00:22:05.063 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:22:05.530 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:22:05.591 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:22:06.099 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:22:06.100 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:22:06.167 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:22:06.524 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:22:06.670 +02:00 [INF] Wait for the selected item to be displayed and enabled
+2025-04-22 00:22:06.774 +02:00 [INF] Try to select a specific service from the available options
+2025-04-22 00:22:10.741 +02:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:23:22.317 +02:00 [INF] Click on the Services link
+2025-04-22 00:23:27.694 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:23:28.138 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:23:28.160 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:23:28.746 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:23:28.746 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:23:28.843 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:23:29.394 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:23:29.800 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:23:29.816 +02:00 [ERR] Error message: Unable to locate element: Generative AI; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+2025-04-22 00:23:30.252 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_002330.png
+2025-04-22 00:27:07.799 +02:00 [INF] Click on the Services link
+2025-04-22 00:27:13.230 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:27:13.896 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:27:14.047 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:27:14.681 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:27:14.681 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:27:14.807 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:27:15.242 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:27:15.257 +02:00 [ERR] Error message: Element <li class="hamburger-menu__item third-level-item--collapsed "> could not be scrolled into view
+2025-04-22 00:27:15.749 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_002715.png
+2025-04-22 00:27:33.026 +02:00 [INF] Click on the Services link
+2025-04-22 00:27:38.980 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:27:39.552 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:27:39.673 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:27:40.412 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:27:40.413 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:27:40.557 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:27:40.731 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:27:40.731 +02:00 [ERR] Error message: Element <li class="hamburger-menu__item third-level-item--collapsed "> could not be scrolled into view
+2025-04-22 00:27:41.070 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_002741.png
+2025-04-22 00:29:15.568 +02:00 [INF] Click on the Services link
+2025-04-22 00:29:22.551 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:29:23.081 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:29:23.171 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:29:23.946 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:29:23.946 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:29:24.102 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:29:24.542 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:29:24.542 +02:00 [INF] Wait for the selected item to be displayed and enabled
+2025-04-22 00:29:29.955 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:29:29.979 +02:00 [ERR] Error message: Timed out after 5 seconds
+2025-04-22 00:29:30.458 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_002930.png
+2025-04-22 00:29:47.693 +02:00 [INF] Click on the Services link
+2025-04-22 00:29:51.666 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:29:52.118 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:29:52.155 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:29:52.860 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:29:52.860 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:29:52.973 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:29:53.398 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:29:53.398 +02:00 [INF] Wait for the selected item to be displayed and enabled
+2025-04-22 00:29:58.975 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:29:58.975 +02:00 [ERR] Error message: Timed out after 5 seconds
+2025-04-22 00:29:59.324 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_002959.png
+2025-04-22 00:32:30.408 +02:00 [INF] Click on the Services link
+2025-04-22 00:32:35.368 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:32:35.936 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:32:36.227 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:32:37.091 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:32:37.092 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:32:37.170 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:32:39.833 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:32:39.859 +02:00 [ERR] Error message: Element <li class="hamburger-menu__item third-level-item--collapsed "> could not be scrolled into view
+2025-04-22 00:32:40.434 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_003240.png
+2025-04-22 00:32:57.666 +02:00 [INF] Click on the Services link
+2025-04-22 00:33:03.750 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:33:04.200 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:33:04.278 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:33:05.070 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:33:05.071 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:33:05.247 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:33:05.723 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:33:05.937 +02:00 [INF] Try to select a specific service from the available options
+2025-04-22 00:33:10.331 +02:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:38:04.130 +02:00 [INF] Click on the Services link
+2025-04-22 00:38:09.778 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:38:10.213 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:38:10.274 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:38:10.884 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:38:10.888 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:38:11.064 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:38:11.301 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:38:11.659 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:38:12.207 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:38:12.207 +02:00 [INF] Wait for the selected item to be displayed and enabled
+2025-04-22 00:38:12.610 +02:00 [INF] Try to select a specific service from the available options
+2025-04-22 00:38:12.683 +02:00 [ERR] Element <a class="hamburger-menu__link" href="/services/artificial-intelligence/generative-ai"> is not clickable at point (161,447) because another element <div id="onetrust-banner-sdk" class="otFlat bottom ot-wo-title vertical-align-content ot-buttons-fw"> obscures it
+2025-04-22 00:38:12.683 +02:00 [INF] Wait for the cookie to be displayed
+2025-04-22 00:38:12.841 +02:00 [INF] Execute java script to set cookie display to none
+2025-04-22 00:38:12.961 +02:00 [INF] Try selects a specific service from the available options
+2025-04-22 00:38:17.747 +02:00 [INF] Error gracefully handled
+2025-04-22 00:38:18.040 +02:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:38:36.038 +02:00 [INF] Click on the Services link
+2025-04-22 00:38:41.791 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:38:42.204 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:38:42.370 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:38:43.111 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:38:43.111 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:38:43.229 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:38:43.667 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:38:43.667 +02:00 [INF] Wait for the selected item to be displayed and enabled
+2025-04-22 00:38:49.134 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:38:49.135 +02:00 [ERR] Error message: Timed out after 5 seconds
+2025-04-22 00:38:49.589 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_003849.png
+2025-04-22 00:40:51.284 +02:00 [INF] Click on the Services link
+2025-04-22 00:40:56.257 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:40:56.821 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:40:56.949 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:40:57.974 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:40:57.974 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:40:58.068 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:40:58.376 +02:00 [ERR] Element <li class="hamburger-menu__item third-level-item--collapsed "> could not be scrolled into view
+2025-04-22 00:40:58.376 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:40:58.725 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:40:59.169 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:40:59.170 +02:00 [INF] Wait for the selected item to be displayed and enabled
+2025-04-22 00:40:59.649 +02:00 [INF] Try to select a specific service from the available options
+2025-04-22 00:40:59.701 +02:00 [ERR] Element <a class="hamburger-menu__link" href="/services/artificial-intelligence/generative-ai"> is not clickable at point (161,447) because another element <div id="onetrust-banner-sdk" class="otFlat bottom ot-wo-title vertical-align-content ot-buttons-fw"> obscures it
+2025-04-22 00:40:59.701 +02:00 [INF] Wait for the cookie to be displayed
+2025-04-22 00:40:59.865 +02:00 [INF] Execute java script to set cookie display to none
+2025-04-22 00:40:59.920 +02:00 [INF] Try selects a specific service from the available options
+2025-04-22 00:41:03.331 +02:00 [INF] Error gracefully handled
+2025-04-22 00:41:03.859 +02:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:41:22.463 +02:00 [INF] Click on the Services link
+2025-04-22 00:41:27.066 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:41:27.558 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:41:27.692 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:41:28.149 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:41:28.149 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:41:28.240 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:41:28.711 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:41:28.711 +02:00 [INF] Wait for the selected item to be displayed and enabled
+2025-04-22 00:41:34.780 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:41:34.780 +02:00 [ERR] Error message: Timed out after 5 seconds
+2025-04-22 00:41:35.195 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_004135.png
+2025-04-22 00:44:16.489 +02:00 [INF] Click on the Services link
+2025-04-22 00:44:25.858 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:44:26.518 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:44:26.646 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:44:26.731 +02:00 [ERR] Element <li class="  hamburger-menu__item item--collapsed "> could not be scrolled into view
+2025-04-22 00:44:26.731 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:44:27.098 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:44:27.759 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:44:27.761 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:44:27.870 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:44:28.311 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:44:28.312 +02:00 [INF] Wait for the selected item to be displayed and enabled
+2025-04-22 00:44:28.661 +02:00 [INF] Try to select a specific service from the available options
+2025-04-22 00:44:28.694 +02:00 [ERR] Element <a class="hamburger-menu__link" href="/services/artificial-intelligence/generative-ai"> is not clickable at point (161,446) because another element <div id="onetrust-banner-sdk" class="otFlat bottom ot-wo-title vertical-align-content ot-buttons-fw"> obscures it
+2025-04-22 00:44:28.694 +02:00 [INF] Wait for the cookie to be displayed
+2025-04-22 00:44:28.761 +02:00 [INF] Execute java script to set cookie display to none
+2025-04-22 00:44:28.779 +02:00 [INF] Try selects a specific service from the available options
+2025-04-22 00:44:32.671 +02:00 [INF] Error gracefully handled
+2025-04-22 00:44:33.210 +02:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:44:51.059 +02:00 [INF] Click on the Services link
+2025-04-22 00:44:55.725 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:44:56.249 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:44:56.317 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:44:56.840 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:44:56.841 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:44:56.951 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:44:57.451 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:44:57.451 +02:00 [INF] Wait for the selected item to be displayed and enabled
+2025-04-22 00:45:03.325 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:45:03.325 +02:00 [ERR] Error message: Timed out after 5 seconds
+2025-04-22 00:45:03.722 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250422_004503.png
+2025-04-22 00:50:00.130 +02:00 [INF] Click on the Services link
+2025-04-22 00:50:06.030 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:50:06.521 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:50:06.632 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:50:07.192 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:50:07.193 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:50:07.516 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:50:07.718 +02:00 [ERR] Element <li class="hamburger-menu__item third-level-item--collapsed "> could not be scrolled into view
+2025-04-22 00:50:07.719 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:50:08.074 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:50:08.538 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:50:08.538 +02:00 [INF] Wait for the selected item to be enabled
+2025-04-22 00:50:08.928 +02:00 [INF] Try to select a specific service from the available options
+2025-04-22 00:50:09.011 +02:00 [ERR] Element <a class="hamburger-menu__link" href="/services/artificial-intelligence/generative-ai"> is not clickable at point (161,447) because another element <div id="onetrust-banner-sdk" class="otFlat bottom ot-wo-title vertical-align-content ot-buttons-fw"> obscures it
+2025-04-22 00:50:09.011 +02:00 [INF] Wait for the cookie to be displayed
+2025-04-22 00:50:09.196 +02:00 [INF] Execute java script to set cookie display to none
+2025-04-22 00:50:09.270 +02:00 [INF] Try selects a specific service from the available options
+2025-04-22 00:50:13.998 +02:00 [INF] Error gracefully handled
+2025-04-22 00:50:14.904 +02:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:50:35.287 +02:00 [INF] Click on the Services link
+2025-04-22 00:50:55.910 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:50:56.367 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:50:56.404 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:50:56.906 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:50:56.906 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:50:57.006 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:50:57.416 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:50:57.416 +02:00 [INF] Wait for the selected item to be enabled
+2025-04-22 00:50:57.702 +02:00 [INF] Try to select a specific service from the available options
+2025-04-22 00:51:02.668 +02:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:51:56.710 +02:00 [INF] Navigates to the About page
+2025-04-22 00:52:05.959 +02:00 [INF] Scrolls to "Epam At Glance section"
+2025-04-22 00:52:06.571 +02:00 [INF] Try to click the download button
+2025-04-22 00:52:06.645 +02:00 [ERR] Error: Element <span class="button__content button__content--desktop"> is not clickable at point (260,673) because another element <div id="onetrust-button-group-parent" class="ot-sdk-three ot-sdk-columns"> obscures it
+2025-04-22 00:52:06.645 +02:00 [INF] Wait for the cookie to be displayed
+2025-04-22 00:52:06.683 +02:00 [INF] Execute java script to set cookie display to none
+2025-04-22 00:52:06.701 +02:00 [INF] Click the download button
+2025-04-22 00:52:12.269 +02:00 [INF] Error gracefully handled
+2025-04-22 00:52:12.364 +02:00 [INF] Scenario passed: Validate that the "EPAM Company Overview" file can be downloaded
+2025-04-22 00:52:27.531 +02:00 [INF] Navigates to the Careers page
+2025-04-22 00:52:47.647 +02:00 [INF] Enters a keyword into the search field
+2025-04-22 00:52:47.925 +02:00 [INF] Try to open the location dropdown list
+2025-04-22 00:52:48.174 +02:00 [ERR] Error: Element <span class="select2-selection__arrow"> is not clickable at point (704,663) because another element <div id="onetrust-group-container" class="ot-sdk-eight ot-sdk-columns"> obscures it
+2025-04-22 00:52:48.174 +02:00 [INF] Wait for the cookie to be displayed
+2025-04-22 00:52:48.203 +02:00 [INF] Execute java script to set cookie display to none
+2025-04-22 00:52:48.210 +02:00 [INF] Open the location dropdown list
+2025-04-22 00:52:49.239 +02:00 [INF] Error gracefully handled
+2025-04-22 00:52:49.240 +02:00 [INF] The location dropdown opened
+2025-04-22 00:52:49.240 +02:00 [INF] Selects all locations
+2025-04-22 00:52:50.385 +02:00 [INF] Try to check the remote filter
+2025-04-22 00:52:50.448 +02:00 [INF] The remote filter checked
+2025-04-22 00:52:50.448 +02:00 [INF] Submits the job search
+2025-04-22 00:52:52.323 +02:00 [INF] Try to open the latest job result
+2025-04-22 00:52:54.230 +02:00 [ERR] Error: Element <a class="button-text primary-button-preset white-background-preset search-result__item-apply-23" href="https://www.epam.com/careers/job-listings/job.epamgdo_blt6966cae4d1b48f9b_en-us_Bogota_Colombia.remote.net-developer_bogota_colombia"> is not clickable at point (1089,652) because another element <div id="onetrust-banner-sdk" class="otFlat bottom ot-wo-title vertical-align-content ot-buttons-fw"> obscures it
+2025-04-22 00:52:54.230 +02:00 [INF] Wait for the cookie to be displayed
+2025-04-22 00:52:54.273 +02:00 [INF] Execute java script to set cookie display to none
+2025-04-22 00:52:54.296 +02:00 [INF] Open the latest job result
+2025-04-22 00:52:58.895 +02:00 [INF] Error gracefully handled
+2025-04-22 00:52:59.172 +02:00 [INF] Scenario passed: Search for a job based on criteria
+2025-04-22 00:53:16.083 +02:00 [INF] Navigate to the Insights page
+2025-04-22 00:53:18.509 +02:00 [INF] Swipes the carousel
+2025-04-22 00:53:19.452 +02:00 [INF] Swipes the carousel
+2025-04-22 00:53:20.123 +02:00 [INF] Try to wait for the main article to be displayed
+2025-04-22 00:53:25.522 +02:00 [ERR] Error: Timed out after 5 seconds
+2025-04-22 00:53:25.522 +02:00 [INF] Swipes the carousel
+2025-04-22 00:53:26.383 +02:00 [INF] Error gracefully handled
+2025-04-22 00:53:26.476 +02:00 [INF] Main article displayed
+2025-04-22 00:53:26.476 +02:00 [INF] Try to click the Read More button in the carousel
+2025-04-22 00:53:26.552 +02:00 [ERR] Error: Element <a class="custom-link link-with-bottom-arrow color-link body-text font-900 slider-cta-link" href="https://www.epam.com/research-results-from-the-survey-of-leaders-in-it-and-people-departments"> is not clickable at point (832,571) because another element <div id="onetrust-group-container" class="ot-sdk-eight ot-sdk-columns"> obscures it
+2025-04-22 00:53:26.552 +02:00 [INF] Wait for the cookie to be displayed
+2025-04-22 00:53:26.589 +02:00 [INF] Execute java script to set cookie display to none
+2025-04-22 00:53:26.618 +02:00 [INF] Click the Read More button in the carousel
+2025-04-22 00:53:31.960 +02:00 [INF] Error gracefully handled
+2025-04-22 00:53:32.190 +02:00 [INF] Scenario passed: Validate title of the article matches with title in the carousel
+2025-04-22 00:53:48.571 +02:00 [INF] Opens the search bar
+2025-04-22 00:53:48.980 +02:00 [INF] Enters the search string
+2025-04-22 00:53:49.377 +02:00 [INF] Submits the search
+2025-04-22 00:53:51.468 +02:00 [INF] Scroll to the last link
+2025-04-22 00:53:52.620 +02:00 [INF] Scenario passed: Navigate to the Epam page and perform a search
+2025-04-22 00:54:08.634 +02:00 [INF] Opens the search bar
+2025-04-22 00:54:09.243 +02:00 [INF] Enters the search string
+2025-04-22 00:54:09.805 +02:00 [INF] Submits the search
+2025-04-22 00:54:11.834 +02:00 [INF] Scroll to the last link
+2025-04-22 00:54:14.175 +02:00 [INF] Scenario passed: Navigate to the Epam page and perform a search
+2025-04-22 00:54:30.258 +02:00 [INF] Opens the search bar
+2025-04-22 00:54:30.865 +02:00 [INF] Enters the search string
+2025-04-22 00:54:31.150 +02:00 [INF] Submits the search
+2025-04-22 00:54:32.707 +02:00 [INF] Scroll to the last link
+2025-04-22 00:54:34.494 +02:00 [INF] Scenario passed: Navigate to the Epam page and perform a search
+2025-04-22 00:54:51.077 +02:00 [INF] Click on the Services link
+2025-04-22 00:54:56.635 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:54:56.945 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:54:57.086 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:54:57.703 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:54:57.703 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:54:57.732 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:54:58.075 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:54:58.075 +02:00 [INF] Wait for the selected item to be enabled
+2025-04-22 00:54:58.317 +02:00 [INF] Try to select a specific service from the available options
+2025-04-22 00:55:02.826 +02:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content
+2025-04-22 00:55:18.706 +02:00 [INF] Click on the Services link
+2025-04-22 00:55:23.743 +02:00 [INF] Click on the button to open the droprown menu
+2025-04-22 00:55:24.163 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-22 00:55:24.183 +02:00 [INF] Clicked the Services dropdown item
+2025-04-22 00:55:24.722 +02:00 [INF] Services dropdown item clicked
+2025-04-22 00:55:24.722 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-22 00:55:24.744 +02:00 [INF] Click on the Artificial intelligence dropdown item
+2025-04-22 00:55:25.026 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-22 00:55:25.026 +02:00 [INF] Wait for the selected item to be enabled
+2025-04-22 00:55:25.225 +02:00 [INF] Try to select a specific service from the available options
+2025-04-22 00:55:29.411 +02:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content

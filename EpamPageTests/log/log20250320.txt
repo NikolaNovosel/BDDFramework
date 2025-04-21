@@ -1,0 +1,528 @@
+2025-03-20 19:13:12.989 +01:00 [INF] Navigates to the About page
+2025-03-20 19:13:20.475 +01:00 [INF] Scrolls to "Epam At Glance section"
+2025-03-20 19:13:21.399 +01:00 [INF] Try to click the download button
+2025-03-20 19:13:21.508 +01:00 [ERR] Error: Element <span class="button__content button__content--desktop"> is not clickable at point (260,534) because another element <div id="onetrust-banner-sdk" class="otFlat bottom ot-wo-title vertical-align-content ot-buttons-fw"> obscures it
+2025-03-20 19:13:21.508 +01:00 [INF] Wait for the cookie to be displayed
+2025-03-20 19:13:21.542 +01:00 [INF] Execute java script to set cookie display to none
+2025-03-20 19:13:21.574 +01:00 [INF] Click the download button
+2025-03-20 19:13:27.118 +01:00 [INF] Error gracefully handled
+2025-03-20 19:13:27.435 +01:00 [INF] Scenario passed: Validate that the "EPAM Company Overview" file can be downloaded
+2025-03-20 19:13:42.711 +01:00 [INF] Navigates to the Careers page
+2025-03-20 19:13:58.781 +01:00 [INF] Enters a keyword into the search field
+2025-03-20 19:13:59.089 +01:00 [INF] Try to open the location dropdown list
+2025-03-20 19:13:59.160 +01:00 [ERR] Error: Element <span class="select2-selection__arrow"> is not clickable at point (704,663) because another element <div id="onetrust-banner-sdk" class="otFlat bottom ot-wo-title vertical-align-content ot-buttons-fw"> obscures it
+2025-03-20 19:13:59.161 +01:00 [INF] Wait for the cookie to be displayed
+2025-03-20 19:13:59.184 +01:00 [INF] Execute java script to set cookie display to none
+2025-03-20 19:13:59.197 +01:00 [INF] Open the location dropdown list
+2025-03-20 19:14:00.038 +01:00 [INF] Error gracefully handled
+2025-03-20 19:14:00.039 +01:00 [INF] The location dropdown opened
+2025-03-20 19:14:00.039 +01:00 [INF] Selects all locations
+2025-03-20 19:14:00.773 +01:00 [INF] Try to check the remote filter
+2025-03-20 19:14:00.804 +01:00 [INF] The remote filter checked
+2025-03-20 19:14:00.805 +01:00 [INF] Submits the job search
+2025-03-20 19:14:02.417 +01:00 [INF] Try to open the latest job result
+2025-03-20 19:14:04.084 +01:00 [ERR] Error: Element <a class="button-text primary-button-preset white-background-preset search-result__item-apply-23" href="https://www.epam.com/careers/job-listings/job.epamgdo_blt380feb8dee0db379_en-us_Other_Mexico.remote_net-developer"> is not clickable at point (1089,652) because another element <div id="onetrust-banner-sdk" class="otFlat bottom ot-wo-title vertical-align-content ot-buttons-fw"> obscures it
+2025-03-20 19:14:04.085 +01:00 [INF] Wait for the cookie to be displayed
+2025-03-20 19:14:04.089 +01:00 [INF] Execute java script to set cookie display to none
+2025-03-20 19:14:04.111 +01:00 [INF] Open the latest job result
+2025-03-20 19:14:06.870 +01:00 [INF] Error gracefully handled
+2025-03-20 19:14:07.154 +01:00 [INF] Scenario passed: Search for a job based on criteria
+2025-03-20 19:14:19.919 +01:00 [INF] Navigate to the Insights page
+2025-03-20 19:14:22.058 +01:00 [INF] Swipes the carousel
+2025-03-20 19:14:22.686 +01:00 [INF] Swipes the carousel
+2025-03-20 19:14:23.249 +01:00 [INF] Try to wait for the main article to be displayed
+2025-03-20 19:14:28.668 +01:00 [ERR] Error: Timed out after 5 seconds
+2025-03-20 19:14:28.668 +01:00 [INF] Swipes the carousel
+2025-03-20 19:14:29.243 +01:00 [INF] Error gracefully handled
+2025-03-20 19:14:29.272 +01:00 [INF] Main article displayed
+2025-03-20 19:14:29.272 +01:00 [INF] Try to click the Read More button in the carousel
+2025-03-20 19:14:29.298 +01:00 [ERR] Error: Element <a class="custom-link link-with-bottom-arrow color-link body-text font-900 slider-cta-link" href="https://www.epam.com/research-results-from-the-survey-of-leaders-in-it-and-people-departments"> is not clickable at point (1171,571) because another element <div class="ot-sdk-row"> obscures it
+2025-03-20 19:14:29.298 +01:00 [INF] Wait for the cookie to be displayed
+2025-03-20 19:14:29.312 +01:00 [INF] Execute java script to set cookie display to none
+2025-03-20 19:14:29.317 +01:00 [INF] Click the Read More button in the carousel
+2025-03-20 19:14:32.447 +01:00 [INF] Error gracefully handled
+2025-03-20 19:14:32.488 +01:00 [INF] Scenario passed: Validate title of the article matches with title in the carousel
+2025-03-20 19:14:44.815 +01:00 [INF] Opens the search bar
+2025-03-20 19:14:45.245 +01:00 [INF] Enters the search string
+2025-03-20 19:14:45.466 +01:00 [INF] Submits the search
+2025-03-20 19:14:46.506 +01:00 [INF] Scroll to the last link
+2025-03-20 19:14:47.953 +01:00 [INF] Scenario passed: Navigate to the Epam page and perform a search
+2025-03-20 19:14:59.247 +01:00 [INF] Opens the search bar
+2025-03-20 19:14:59.607 +01:00 [INF] Enters the search string
+2025-03-20 19:14:59.709 +01:00 [INF] Submits the search
+2025-03-20 19:15:01.221 +01:00 [INF] Scroll to the last link
+2025-03-20 19:15:02.076 +01:00 [INF] Scenario passed: Navigate to the Epam page and perform a search
+2025-03-20 19:15:14.111 +01:00 [INF] Opens the search bar
+2025-03-20 19:15:14.497 +01:00 [INF] Enters the search string
+2025-03-20 19:15:14.602 +01:00 [INF] Submits the search
+2025-03-20 19:15:16.680 +01:00 [INF] Scroll to the last link
+2025-03-20 19:15:17.550 +01:00 [INF] Scenario passed: Navigate to the Epam page and perform a search
+2025-03-20 19:15:28.514 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:15:32.216 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:15:32.499 +01:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-03-20 19:15:32.539 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:15:32.947 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:15:38.875 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:15:38.876 +01:00 [ERR] Error message: Timed out after 5 seconds
+2025-03-20 19:15:39.111 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_191539.png
+2025-03-20 19:15:52.409 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:15:56.058 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:15:56.375 +01:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-03-20 19:15:56.414 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:15:56.779 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:15:56.849 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:15:56.850 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:15:57.227 +01:00 [INF] Wait for the selected item to be displayed and enabled
+2025-03-20 19:16:02.771 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:16:02.771 +01:00 [ERR] Error message: Timed out after 5 seconds
+2025-03-20 19:16:02.956 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_191602.png
+2025-03-20 19:18:38.229 +01:00 [INF] Navigates to the About page
+2025-03-20 19:18:44.072 +01:00 [INF] Scrolls to "Epam At Glance section"
+2025-03-20 19:18:44.954 +01:00 [INF] Try to click the download button
+2025-03-20 19:18:45.030 +01:00 [ERR] Error: Element <span class="button__content button__content--desktop"> is not clickable at point (260,673) because another element <div id="onetrust-banner-sdk" class="otFlat bottom ot-wo-title vertical-align-content ot-buttons-fw"> obscures it
+2025-03-20 19:18:45.030 +01:00 [INF] Wait for the cookie to be displayed
+2025-03-20 19:18:45.048 +01:00 [INF] Execute java script to set cookie display to none
+2025-03-20 19:18:45.081 +01:00 [INF] Click the download button
+2025-03-20 19:18:50.645 +01:00 [INF] Error gracefully handled
+2025-03-20 19:18:50.692 +01:00 [INF] Scenario passed: Validate that the "EPAM Company Overview" file can be downloaded
+2025-03-20 19:19:08.862 +01:00 [INF] Navigates to the Careers page
+2025-03-20 19:19:26.804 +01:00 [INF] Enters a keyword into the search field
+2025-03-20 19:19:27.044 +01:00 [INF] Try to open the location dropdown list
+2025-03-20 19:19:27.149 +01:00 [ERR] Error: Element <span class="select2-selection__arrow"> is not clickable at point (704,663) because another element <div id="onetrust-banner-sdk" class="otFlat bottom ot-wo-title vertical-align-content ot-buttons-fw"> obscures it
+2025-03-20 19:19:27.149 +01:00 [INF] Wait for the cookie to be displayed
+2025-03-20 19:19:27.190 +01:00 [INF] Execute java script to set cookie display to none
+2025-03-20 19:19:27.195 +01:00 [INF] Open the location dropdown list
+2025-03-20 19:19:28.123 +01:00 [INF] Error gracefully handled
+2025-03-20 19:19:28.123 +01:00 [INF] The location dropdown opened
+2025-03-20 19:19:28.123 +01:00 [INF] Selects all locations
+2025-03-20 19:19:28.859 +01:00 [INF] Try to check the remote filter
+2025-03-20 19:19:28.902 +01:00 [INF] The remote filter checked
+2025-03-20 19:19:28.903 +01:00 [INF] Submits the job search
+2025-03-20 19:19:31.087 +01:00 [INF] Try to open the latest job result
+2025-03-20 19:19:31.820 +01:00 [ERR] Error: Element <a class="button-text primary-button-preset white-background-preset search-result__item-apply-23" href="https://www.epam.com/careers/job-listings/job.epamgdo_blt380feb8dee0db379_en-us_Other_Mexico.remote_net-developer"> is not clickable at point (1089,652) because another element <div id="onetrust-banner-sdk" class="otFlat bottom ot-wo-title vertical-align-content ot-buttons-fw"> obscures it
+2025-03-20 19:19:31.820 +01:00 [INF] Wait for the cookie to be displayed
+2025-03-20 19:19:31.825 +01:00 [INF] Execute java script to set cookie display to none
+2025-03-20 19:19:31.828 +01:00 [INF] Open the latest job result
+2025-03-20 19:19:34.782 +01:00 [INF] Error gracefully handled
+2025-03-20 19:19:35.112 +01:00 [INF] Scenario passed: Search for a job based on criteria
+2025-03-20 19:19:48.575 +01:00 [INF] Navigate to the Insights page
+2025-03-20 19:19:50.631 +01:00 [INF] Swipes the carousel
+2025-03-20 19:19:51.245 +01:00 [INF] Swipes the carousel
+2025-03-20 19:19:51.828 +01:00 [INF] Try to wait for the main article to be displayed
+2025-03-20 19:19:57.268 +01:00 [ERR] Error: Timed out after 5 seconds
+2025-03-20 19:19:57.268 +01:00 [INF] Swipes the carousel
+2025-03-20 19:19:57.815 +01:00 [INF] Error gracefully handled
+2025-03-20 19:19:57.838 +01:00 [INF] Main article displayed
+2025-03-20 19:19:57.838 +01:00 [INF] Try to click the Read More button in the carousel
+2025-03-20 19:19:57.868 +01:00 [ERR] Error: Element <a class="custom-link link-with-bottom-arrow color-link body-text font-900 slider-cta-link" href="https://www.epam.com/research-results-from-the-survey-of-leaders-in-it-and-people-departments"> is not clickable at point (1171,571) because another element <div class="ot-sdk-row"> obscures it
+2025-03-20 19:19:57.868 +01:00 [INF] Wait for the cookie to be displayed
+2025-03-20 19:19:57.882 +01:00 [INF] Execute java script to set cookie display to none
+2025-03-20 19:19:57.885 +01:00 [INF] Click the Read More button in the carousel
+2025-03-20 19:19:59.883 +01:00 [INF] Error gracefully handled
+2025-03-20 19:19:59.986 +01:00 [INF] Scenario passed: Validate title of the article matches with title in the carousel
+2025-03-20 19:20:11.902 +01:00 [INF] Opens the search bar
+2025-03-20 19:20:12.304 +01:00 [INF] Enters the search string
+2025-03-20 19:20:12.588 +01:00 [INF] Submits the search
+2025-03-20 19:20:13.692 +01:00 [INF] Scroll to the last link
+2025-03-20 19:20:15.689 +01:00 [INF] Scenario passed: Navigate to the Epam page and perform a search
+2025-03-20 19:20:28.708 +01:00 [INF] Opens the search bar
+2025-03-20 19:20:29.088 +01:00 [INF] Enters the search string
+2025-03-20 19:20:29.154 +01:00 [INF] Submits the search
+2025-03-20 19:20:30.092 +01:00 [INF] Scroll to the last link
+2025-03-20 19:20:32.026 +01:00 [INF] Scenario passed: Navigate to the Epam page and perform a search
+2025-03-20 19:20:43.852 +01:00 [INF] Opens the search bar
+2025-03-20 19:20:44.202 +01:00 [INF] Enters the search string
+2025-03-20 19:20:44.318 +01:00 [INF] Submits the search
+2025-03-20 19:20:45.307 +01:00 [INF] Scroll to the last link
+2025-03-20 19:20:47.225 +01:00 [INF] Scenario passed: Navigate to the Epam page and perform a search
+2025-03-20 19:20:59.375 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:21:02.622 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:21:02.899 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:21:03.233 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:21:08.748 +01:00 [ERR] Error: Timed out after 5 seconds
+2025-03-20 19:21:08.748 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:21:09.021 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:21:09.321 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:21:09.402 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:21:09.402 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:21:09.821 +01:00 [INF] Wait for the selected item to be displayed and enabled
+2025-03-20 19:21:10.008 +01:00 [INF] Artificial intelligence dropdown item clicked
+2025-03-20 19:21:10.102 +01:00 [INF] Try to select a specific service from the available options
+2025-03-20 19:21:12.649 +01:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:21:25.014 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:21:28.248 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:21:28.517 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:21:28.911 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:21:28.954 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:21:28.954 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:21:29.274 +01:00 [INF] Wait for the selected item to be displayed and enabled
+2025-03-20 19:21:34.671 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:21:34.671 +01:00 [ERR] Error message: Timed out after 5 seconds
+2025-03-20 19:21:34.933 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_192134.png
+2025-03-20 19:22:27.539 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:22:34.626 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:22:35.048 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:22:40.421 +01:00 [ERR] Error: Timed out after 5 seconds
+2025-03-20 19:22:40.421 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:22:40.702 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:22:41.157 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:22:41.241 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:22:41.242 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:22:41.557 +01:00 [INF] Wait for the selected item to be displayed and enabled
+2025-03-20 19:22:41.785 +01:00 [INF] Artificial intelligence dropdown item clicked
+2025-03-20 19:22:41.900 +01:00 [INF] Try to select a specific service from the available options
+2025-03-20 19:22:45.307 +01:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:23:25.896 +01:00 [INF] Navigates to the About page
+2025-03-20 19:23:32.687 +01:00 [INF] Scrolls to "Epam At Glance section"
+2025-03-20 19:23:33.827 +01:00 [INF] Try to click the download button
+2025-03-20 19:23:33.989 +01:00 [ERR] Error: Element <span class="button__content button__content--desktop"> is not clickable at point (260,673) because another element <div id="onetrust-button-group-parent" class="ot-sdk-three ot-sdk-columns"> obscures it
+2025-03-20 19:23:33.989 +01:00 [INF] Wait for the cookie to be displayed
+2025-03-20 19:23:34.058 +01:00 [INF] Execute java script to set cookie display to none
+2025-03-20 19:23:34.158 +01:00 [INF] Click the download button
+2025-03-20 19:23:39.825 +01:00 [INF] Error gracefully handled
+2025-03-20 19:23:39.874 +01:00 [INF] Scenario passed: Validate that the "EPAM Company Overview" file can be downloaded
+2025-03-20 19:23:54.398 +01:00 [INF] Navigates to the Careers page
+2025-03-20 19:24:14.026 +01:00 [INF] Enters a keyword into the search field
+2025-03-20 19:24:14.365 +01:00 [INF] Try to open the location dropdown list
+2025-03-20 19:24:14.447 +01:00 [ERR] Error: Element <span class="select2-selection__arrow"> is not clickable at point (704,663) because another element <div id="onetrust-banner-sdk" class="otFlat bottom ot-wo-title vertical-align-content ot-buttons-fw"> obscures it
+2025-03-20 19:24:14.447 +01:00 [INF] Wait for the cookie to be displayed
+2025-03-20 19:24:14.460 +01:00 [INF] Execute java script to set cookie display to none
+2025-03-20 19:24:14.472 +01:00 [INF] Open the location dropdown list
+2025-03-20 19:24:15.426 +01:00 [INF] Error gracefully handled
+2025-03-20 19:24:15.426 +01:00 [INF] The location dropdown opened
+2025-03-20 19:24:15.426 +01:00 [INF] Selects all locations
+2025-03-20 19:24:16.184 +01:00 [INF] Try to check the remote filter
+2025-03-20 19:24:16.254 +01:00 [INF] The remote filter checked
+2025-03-20 19:24:16.254 +01:00 [INF] Submits the job search
+2025-03-20 19:24:17.707 +01:00 [INF] Try to open the latest job result
+2025-03-20 19:24:19.621 +01:00 [ERR] Error: Element <a class="button-text primary-button-preset white-background-preset search-result__item-apply-23" href="https://www.epam.com/careers/job-listings/job.epamgdo_blt380feb8dee0db379_en-us_Other_Mexico.remote_net-developer"> is not clickable at point (1089,652) because another element <div id="onetrust-banner-sdk" class="otFlat bottom ot-wo-title vertical-align-content ot-buttons-fw"> obscures it
+2025-03-20 19:24:19.621 +01:00 [INF] Wait for the cookie to be displayed
+2025-03-20 19:24:19.628 +01:00 [INF] Execute java script to set cookie display to none
+2025-03-20 19:24:19.653 +01:00 [INF] Open the latest job result
+2025-03-20 19:24:22.728 +01:00 [INF] Error gracefully handled
+2025-03-20 19:24:22.959 +01:00 [INF] Scenario passed: Search for a job based on criteria
+2025-03-20 19:24:37.503 +01:00 [INF] Navigate to the Insights page
+2025-03-20 19:24:39.595 +01:00 [INF] Swipes the carousel
+2025-03-20 19:24:40.403 +01:00 [INF] Swipes the carousel
+2025-03-20 19:24:41.089 +01:00 [INF] Try to wait for the main article to be displayed
+2025-03-20 19:24:46.101 +01:00 [ERR] Error: Timed out after 5 seconds
+2025-03-20 19:24:46.101 +01:00 [INF] Swipes the carousel
+2025-03-20 19:24:46.776 +01:00 [INF] Error gracefully handled
+2025-03-20 19:24:46.826 +01:00 [INF] Main article displayed
+2025-03-20 19:24:46.826 +01:00 [INF] Try to click the Read More button in the carousel
+2025-03-20 19:24:46.900 +01:00 [ERR] Error: Element <a class="custom-link link-with-bottom-arrow color-link body-text font-900 slider-cta-link" href="https://www.epam.com/research-results-from-the-survey-of-leaders-in-it-and-people-departments"> is not clickable at point (1134,571) because another element <div id="onetrust-group-container" class="ot-sdk-eight ot-sdk-columns"> obscures it
+2025-03-20 19:24:46.900 +01:00 [INF] Wait for the cookie to be displayed
+2025-03-20 19:24:46.930 +01:00 [INF] Execute java script to set cookie display to none
+2025-03-20 19:24:46.936 +01:00 [INF] Click the Read More button in the carousel
+2025-03-20 19:24:52.077 +01:00 [INF] Error gracefully handled
+2025-03-20 19:24:52.309 +01:00 [INF] Scenario passed: Validate title of the article matches with title in the carousel
+2025-03-20 19:25:09.268 +01:00 [INF] Opens the search bar
+2025-03-20 19:25:09.662 +01:00 [INF] Enters the search string
+2025-03-20 19:25:09.802 +01:00 [INF] Submits the search
+2025-03-20 19:25:11.592 +01:00 [INF] Scroll to the last link
+2025-03-20 19:25:12.587 +01:00 [INF] Scenario passed: Navigate to the Epam page and perform a search
+2025-03-20 19:25:25.926 +01:00 [INF] Opens the search bar
+2025-03-20 19:25:26.298 +01:00 [INF] Enters the search string
+2025-03-20 19:25:26.364 +01:00 [INF] Submits the search
+2025-03-20 19:25:27.418 +01:00 [INF] Scroll to the last link
+2025-03-20 19:25:28.809 +01:00 [INF] Scenario passed: Navigate to the Epam page and perform a search
+2025-03-20 19:25:40.887 +01:00 [INF] Opens the search bar
+2025-03-20 19:25:41.290 +01:00 [INF] Enters the search string
+2025-03-20 19:25:41.369 +01:00 [INF] Submits the search
+2025-03-20 19:25:42.403 +01:00 [INF] Scroll to the last link
+2025-03-20 19:25:43.829 +01:00 [INF] Scenario passed: Navigate to the Epam page and perform a search
+2025-03-20 19:25:54.832 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:25:59.483 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:25:59.795 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:26:00.160 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:26:00.228 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:26:00.228 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:26:00.541 +01:00 [INF] Wait for the selected item to be displayed and enabled
+2025-03-20 19:26:00.831 +01:00 [INF] Artificial intelligence dropdown item clicked
+2025-03-20 19:26:00.931 +01:00 [INF] Try to select a specific service from the available options
+2025-03-20 19:26:02.914 +01:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:26:15.072 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:26:18.655 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:26:18.935 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:26:19.313 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:26:19.364 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:26:19.364 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:26:19.696 +01:00 [INF] Wait for the selected item to be displayed and enabled
+2025-03-20 19:26:25.364 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:26:25.364 +01:00 [ERR] Error message: Timed out after 5 seconds
+2025-03-20 19:26:25.570 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_192625.png
+2025-03-20 19:27:06.333 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:27:10.748 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:27:11.046 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:27:11.407 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:27:11.474 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:27:11.474 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:27:11.809 +01:00 [INF] Wait for the selected item to be displayed and enabled
+2025-03-20 19:27:16.986 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:27:16.989 +01:00 [ERR] Error message: Timed out after 5 seconds
+2025-03-20 19:27:17.155 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_192717.png
+2025-03-20 19:30:36.397 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:30:40.469 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:30:40.725 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:30:41.135 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:30:41.185 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:30:41.186 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:30:41.597 +01:00 [INF] Artificial intelligence dropdown item clicked
+2025-03-20 19:30:46.819 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:30:46.824 +01:00 [ERR] Error message: Timed out after 5 seconds
+2025-03-20 19:30:47.113 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_193047.png
+2025-03-20 19:31:00.915 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:31:04.656 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:31:04.943 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:31:05.305 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:31:05.364 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:31:05.364 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:31:05.678 +01:00 [INF] Artificial intelligence dropdown item clicked
+2025-03-20 19:31:10.800 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:31:10.800 +01:00 [ERR] Error message: Timed out after 5 seconds
+2025-03-20 19:31:10.986 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_193110.png
+2025-03-20 19:32:31.239 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:32:34.831 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:32:35.098 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:32:35.441 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:32:40.587 +01:00 [ERR] Error: Timed out after 5 seconds
+2025-03-20 19:32:40.587 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:32:40.882 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:32:41.151 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:32:41.202 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:32:41.202 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:32:41.482 +01:00 [INF] Wait for the selected item to be displayed and enabled
+2025-03-20 19:32:41.645 +01:00 [INF] Artificial intelligence dropdown item clicked
+2025-03-20 19:32:41.741 +01:00 [INF] Try to select a specific service from the available options
+2025-03-20 19:32:43.716 +01:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:32:56.455 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:33:00.002 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:33:00.345 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:33:00.685 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:33:00.737 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:33:00.737 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:33:01.019 +01:00 [INF] Wait for the selected item to be displayed and enabled
+2025-03-20 19:33:01.174 +01:00 [INF] Artificial intelligence dropdown item clicked
+2025-03-20 19:33:01.253 +01:00 [INF] Try to select a specific service from the available options
+2025-03-20 19:33:04.262 +01:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:33:57.955 +01:00 [INF] Navigates to the About page
+2025-03-20 19:34:02.108 +01:00 [INF] Scrolls to "Epam At Glance section"
+2025-03-20 19:34:02.540 +01:00 [INF] Try to click the download button
+2025-03-20 19:34:02.598 +01:00 [ERR] Error: Element <span class="button__content button__content--desktop"> is not clickable at point (260,673) because another element <div id="onetrust-group-container" class="ot-sdk-eight ot-sdk-columns"> obscures it
+2025-03-20 19:34:02.598 +01:00 [INF] Wait for the cookie to be displayed
+2025-03-20 19:34:02.627 +01:00 [INF] Execute java script to set cookie display to none
+2025-03-20 19:34:02.659 +01:00 [INF] Click the download button
+2025-03-20 19:34:08.405 +01:00 [INF] Error gracefully handled
+2025-03-20 19:34:08.450 +01:00 [INF] Scenario passed: Validate that the "EPAM Company Overview" file can be downloaded
+2025-03-20 19:34:23.936 +01:00 [INF] Navigates to the Careers page
+2025-03-20 19:34:41.605 +01:00 [INF] Enters a keyword into the search field
+2025-03-20 19:34:41.798 +01:00 [INF] Try to open the location dropdown list
+2025-03-20 19:34:41.869 +01:00 [ERR] Error: Element <span class="select2-selection__arrow"> is not clickable at point (704,663) because another element <div id="onetrust-banner-sdk" class="otFlat bottom ot-wo-title vertical-align-content ot-buttons-fw"> obscures it
+2025-03-20 19:34:41.869 +01:00 [INF] Wait for the cookie to be displayed
+2025-03-20 19:34:41.881 +01:00 [INF] Execute java script to set cookie display to none
+2025-03-20 19:34:41.903 +01:00 [INF] Open the location dropdown list
+2025-03-20 19:34:42.722 +01:00 [INF] Error gracefully handled
+2025-03-20 19:34:42.723 +01:00 [INF] The location dropdown opened
+2025-03-20 19:34:42.723 +01:00 [INF] Selects all locations
+2025-03-20 19:34:43.463 +01:00 [INF] Try to check the remote filter
+2025-03-20 19:34:43.512 +01:00 [INF] The remote filter checked
+2025-03-20 19:34:43.513 +01:00 [INF] Submits the job search
+2025-03-20 19:34:45.302 +01:00 [INF] Try to open the latest job result
+2025-03-20 19:34:47.275 +01:00 [ERR] Error: Element <a class="button-text primary-button-preset white-background-preset search-result__item-apply-23" href="https://www.epam.com/careers/job-listings/job.epamgdo_blt380feb8dee0db379_en-us_Other_Mexico.remote_net-developer"> is not clickable at point (1089,652) because another element <div id="onetrust-banner-sdk" class="otFlat bottom ot-wo-title vertical-align-content ot-buttons-fw"> obscures it
+2025-03-20 19:34:47.275 +01:00 [INF] Wait for the cookie to be displayed
+2025-03-20 19:34:47.333 +01:00 [INF] Execute java script to set cookie display to none
+2025-03-20 19:34:47.339 +01:00 [INF] Open the latest job result
+2025-03-20 19:34:51.190 +01:00 [INF] Error gracefully handled
+2025-03-20 19:34:51.323 +01:00 [INF] Scenario passed: Search for a job based on criteria
+2025-03-20 19:35:04.758 +01:00 [INF] Navigate to the Insights page
+2025-03-20 19:35:06.840 +01:00 [INF] Swipes the carousel
+2025-03-20 19:35:07.466 +01:00 [INF] Swipes the carousel
+2025-03-20 19:35:08.043 +01:00 [INF] Try to wait for the main article to be displayed
+2025-03-20 19:35:13.476 +01:00 [ERR] Error: Timed out after 5 seconds
+2025-03-20 19:35:13.476 +01:00 [INF] Swipes the carousel
+2025-03-20 19:35:14.035 +01:00 [INF] Error gracefully handled
+2025-03-20 19:35:14.061 +01:00 [INF] Main article displayed
+2025-03-20 19:35:14.061 +01:00 [INF] Try to click the Read More button in the carousel
+2025-03-20 19:35:14.084 +01:00 [ERR] Error: Element <a class="custom-link link-with-bottom-arrow color-link body-text font-900 slider-cta-link" href="https://www.epam.com/research-results-from-the-survey-of-leaders-in-it-and-people-departments"> is not clickable at point (1201,571) because another element <div class="ot-sdk-container"> obscures it
+2025-03-20 19:35:14.084 +01:00 [INF] Wait for the cookie to be displayed
+2025-03-20 19:35:14.098 +01:00 [INF] Execute java script to set cookie display to none
+2025-03-20 19:35:14.102 +01:00 [INF] Click the Read More button in the carousel
+2025-03-20 19:35:16.649 +01:00 [INF] Error gracefully handled
+2025-03-20 19:35:16.737 +01:00 [INF] Scenario passed: Validate title of the article matches with title in the carousel
+2025-03-20 19:35:29.999 +01:00 [INF] Opens the search bar
+2025-03-20 19:35:30.498 +01:00 [INF] Enters the search string
+2025-03-20 19:35:30.727 +01:00 [INF] Submits the search
+2025-03-20 19:35:32.557 +01:00 [INF] Scroll to the last link
+2025-03-20 19:35:33.511 +01:00 [INF] Scenario passed: Navigate to the Epam page and perform a search
+2025-03-20 19:35:45.745 +01:00 [INF] Opens the search bar
+2025-03-20 19:35:46.150 +01:00 [INF] Enters the search string
+2025-03-20 19:35:46.222 +01:00 [INF] Submits the search
+2025-03-20 19:35:48.040 +01:00 [INF] Scroll to the last link
+2025-03-20 19:35:48.921 +01:00 [INF] Scenario passed: Navigate to the Epam page and perform a search
+2025-03-20 19:36:01.712 +01:00 [INF] Opens the search bar
+2025-03-20 19:36:02.056 +01:00 [INF] Enters the search string
+2025-03-20 19:36:02.173 +01:00 [INF] Submits the search
+2025-03-20 19:36:04.476 +01:00 [INF] Scroll to the last link
+2025-03-20 19:36:05.385 +01:00 [INF] Scenario passed: Navigate to the Epam page and perform a search
+2025-03-20 19:36:17.349 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:36:20.903 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:36:21.225 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:36:21.606 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:36:21.662 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:36:21.662 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:36:21.986 +01:00 [INF] Wait for the selected item to be displayed and enabled
+2025-03-20 19:36:27.246 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:36:27.246 +01:00 [ERR] Error message: Timed out after 5 seconds
+2025-03-20 19:36:27.447 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_193627.png
+2025-03-20 19:36:40.440 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:36:43.730 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:36:44.045 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:36:44.424 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:36:44.471 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:36:44.471 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:36:44.773 +01:00 [INF] Wait for the selected item to be displayed and enabled
+2025-03-20 19:36:49.781 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:36:49.781 +01:00 [ERR] Error message: Timed out after 5 seconds
+2025-03-20 19:36:49.958 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_193649.png
+2025-03-20 19:38:46.135 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:38:49.894 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:38:50.347 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:38:50.730 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:38:50.780 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:38:50.780 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:38:51.094 +01:00 [INF] Wait for the selected item to be displayed and enabled
+2025-03-20 19:38:57.631 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:38:57.638 +01:00 [ERR] Error message: Timed out after 5 seconds
+2025-03-20 19:38:57.888 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_193857.png
+2025-03-20 19:39:10.859 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:39:15.511 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:39:15.853 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:39:16.280 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:39:16.396 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:39:16.397 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:39:21.719 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:39:21.719 +01:00 [ERR] Error message: Timed out after 5 seconds
+2025-03-20 19:39:21.913 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_193921.png
+2025-03-20 19:45:23.694 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:45:27.905 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:45:28.173 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:45:28.327 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:45:28.330 +01:00 [ERR] Error message: Element <li class="  hamburger-menu__item item--collapsed "> could not be scrolled into view
+2025-03-20 19:45:28.526 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_194528.png
+2025-03-20 19:45:44.065 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:45:47.608 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:45:47.887 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:45:47.972 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:45:47.972 +01:00 [ERR] Error message: Element <li class="  hamburger-menu__item item--collapsed "> could not be scrolled into view
+2025-03-20 19:45:48.262 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_194548.png
+2025-03-20 19:47:54.022 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:47:57.292 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:47:57.574 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:47:57.939 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:47:57.995 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:47:57.995 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:47:58.289 +01:00 [INF] Wait for the selected item to be displayed and enabled
+2025-03-20 19:48:03.471 +01:00 [ERR] Error: Timed out after 5 seconds
+2025-03-20 19:48:03.471 +01:00 [INF] Wait for the selected item to be displayed and enabled
+2025-03-20 19:48:09.054 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:48:09.057 +01:00 [ERR] Error message: Timed out after 5 seconds
+2025-03-20 19:48:09.222 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_194809.png
+2025-03-20 19:48:24.094 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:48:32.797 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:48:33.209 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:48:33.354 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:48:33.354 +01:00 [ERR] Error message: Element <li class="  hamburger-menu__item item--collapsed "> could not be scrolled into view
+2025-03-20 19:48:33.838 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_194833.png
+2025-03-20 19:51:18.071 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:51:24.588 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:51:25.119 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:51:25.699 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:51:25.903 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:51:25.903 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:51:26.364 +01:00 [INF] Wait for the selected item to be displayed and enabled
+2025-03-20 19:51:31.682 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:51:31.689 +01:00 [ERR] Error message: Timed out after 5 seconds
+2025-03-20 19:51:31.976 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_195131.png
+2025-03-20 19:51:46.642 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:51:51.309 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:51:51.637 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:51:52.045 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:51:52.108 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:51:52.108 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:51:57.834 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:51:57.834 +01:00 [ERR] Error message: Timed out after 5 seconds
+2025-03-20 19:51:57.996 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_195157.png
+2025-03-20 19:54:02.321 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:54:05.720 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:54:05.997 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:54:06.371 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:54:06.450 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:54:06.450 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:54:12.306 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:54:12.311 +01:00 [ERR] Error message: Timed out after 5 seconds
+2025-03-20 19:54:12.557 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_195412.png
+2025-03-20 19:54:26.117 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:54:29.101 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:54:29.400 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:54:29.747 +01:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-03-20 19:54:29.795 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:54:29.795 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:54:35.886 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:54:35.887 +01:00 [ERR] Error message: Timed out after 5 seconds
+2025-03-20 19:54:36.095 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_195436.png
+2025-03-20 19:58:03.047 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:58:07.667 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:58:08.014 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:58:08.438 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:58:08.438 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:58:13.727 +01:00 [INF] Artificial intelligence dropdown item clicked
+2025-03-20 19:58:18.981 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:58:18.988 +01:00 [ERR] Error message: Timed out after 5 seconds
+2025-03-20 19:58:19.330 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_195819.png
+2025-03-20 19:58:32.536 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:58:36.213 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:58:36.493 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:58:36.826 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:58:36.826 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:58:37.131 +01:00 [INF] Artificial intelligence dropdown item clicked
+2025-03-20 19:58:42.656 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 19:58:42.657 +01:00 [ERR] Error message: Timed out after 5 seconds
+2025-03-20 19:58:42.822 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_195842.png
+2025-03-20 19:59:42.474 +01:00 [INF] Clicks on the Services link
+2025-03-20 19:59:47.453 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 19:59:47.790 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 19:59:48.301 +01:00 [INF] Services dropdown item clicked
+2025-03-20 19:59:48.301 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 19:59:48.757 +01:00 [INF] Artificial intelligence dropdown item clicked
+2025-03-20 19:59:49.027 +01:00 [INF] Try to select a specific service from the available options
+2025-03-20 19:59:49.121 +01:00 [ERR] Error: Element <a class="hamburger-menu__link" href="/services/artificial-intelligence/generative-ai"> is not clickable at point (161,445) because another element <div id="onetrust-banner-sdk" class="otFlat bottom ot-wo-title vertical-align-content ot-buttons-fw"> obscures it
+2025-03-20 19:59:49.122 +01:00 [INF] Wait for the cookie to be displayed
+2025-03-20 19:59:49.215 +01:00 [INF] Execute java script to set cookie display to none
+2025-03-20 19:59:49.258 +01:00 [INF] Try selects a specific service from the available options
+2025-03-20 19:59:51.509 +01:00 [INF] Error gracefully handled
+2025-03-20 19:59:52.036 +01:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 20:00:06.070 +01:00 [INF] Clicks on the Services link
+2025-03-20 20:00:09.587 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 20:00:09.902 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 20:00:10.330 +01:00 [INF] Services dropdown item clicked
+2025-03-20 20:00:10.331 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 20:00:10.779 +01:00 [INF] Artificial intelligence dropdown item clicked
+2025-03-20 20:00:17.026 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 20:00:17.027 +01:00 [ERR] Error message: Timed out after 5 seconds
+2025-03-20 20:00:17.305 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_200017.png
+2025-03-20 20:02:55.897 +01:00 [INF] Clicks on the Services link
+2025-03-20 20:03:01.261 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 20:03:01.625 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 20:03:02.187 +01:00 [INF] Services dropdown item clicked
+2025-03-20 20:03:02.187 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 20:03:07.603 +01:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-03-20 20:03:07.616 +01:00 [ERR] Error message: Timed out after 5 seconds
+2025-03-20 20:03:08.015 +01:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250320_200308.png
+2025-03-20 20:03:24.974 +01:00 [INF] Clicks on the Services link
+2025-03-20 20:03:29.241 +01:00 [INF] Clicks on the button to open the droprown menu
+2025-03-20 20:03:29.596 +01:00 [INF] Clicked the Services dropdown item
+2025-03-20 20:03:30.473 +01:00 [INF] Services dropdown item clicked
+2025-03-20 20:03:30.473 +01:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-03-20 20:03:31.007 +01:00 [INF] Artificial intelligence dropdown item clicked
+2025-03-20 20:03:31.482 +01:00 [INF] Try to select a specific service from the available options
+2025-03-20 20:03:34.872 +01:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content

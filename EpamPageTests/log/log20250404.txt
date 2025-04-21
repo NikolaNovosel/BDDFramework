@@ -1,0 +1,75 @@
+2025-04-04 22:05:33.592 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-04 22:05:33.709 +02:00 [ERR] Error message: Process unexpectedly closed with status 0
+2025-04-04 22:05:59.633 +02:00 [INF] Clicks on the Services link
+2025-04-04 22:06:10.041 +02:00 [INF] Clicks on the button to open the droprown menu
+2025-04-04 22:06:10.565 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-04 22:06:11.732 +02:00 [INF] Clicked the Services dropdown item
+2025-04-04 22:06:12.558 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-04 22:06:13.096 +02:00 [INF] Services dropdown item clicked
+2025-04-04 22:06:13.096 +02:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-04-04 22:06:13.869 +02:00 [INF] Wait for the selected item to be displayed and enabled
+2025-04-04 22:06:15.000 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-04 22:06:15.400 +02:00 [INF] Try to select a specific service from the available options
+2025-04-04 22:06:21.111 +02:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content
+2025-04-04 22:06:55.051 +02:00 [INF] Clicks on the Services link
+2025-04-04 22:07:00.699 +02:00 [INF] Clicks on the button to open the droprown menu
+2025-04-04 22:07:01.191 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-04 22:07:01.468 +02:00 [INF] Clicked the Services dropdown item
+2025-04-04 22:07:02.207 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-04 22:07:02.582 +02:00 [INF] Services dropdown item clicked
+2025-04-04 22:07:02.582 +02:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-04-04 22:07:03.273 +02:00 [INF] Wait for the selected item to be displayed and enabled
+2025-04-04 22:07:04.037 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-04 22:07:04.385 +02:00 [INF] Try to select a specific service from the available options
+2025-04-04 22:07:04.440 +02:00 [ERR] Error: Element <a class="hamburger-menu__link" href="/services/artificial-intelligence/generative-ai"> is not clickable at point (161,448) because another element <div id="onetrust-banner-sdk" class="otFlat bottom ot-wo-title vertical-align-content ot-buttons-fw"> obscures it
+2025-04-04 22:07:04.440 +02:00 [INF] Wait for the cookie to be displayed
+2025-04-04 22:07:04.520 +02:00 [INF] Execute java script to set cookie display to none
+2025-04-04 22:07:04.588 +02:00 [INF] Try selects a specific service from the available options
+2025-04-04 22:07:08.468 +02:00 [INF] Error gracefully handled
+2025-04-04 22:07:09.016 +02:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content
+2025-04-04 22:07:37.813 +02:00 [INF] Clicks on the Services link
+2025-04-04 22:07:44.001 +02:00 [INF] Clicks on the button to open the droprown menu
+2025-04-04 22:07:44.465 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-04 22:07:44.692 +02:00 [INF] Clicked the Services dropdown item
+2025-04-04 22:07:45.504 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-04 22:07:45.750 +02:00 [INF] Services dropdown item clicked
+2025-04-04 22:07:45.750 +02:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-04-04 22:07:46.329 +02:00 [INF] Wait for the selected item to be displayed and enabled
+2025-04-04 22:07:47.126 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-04 22:07:47.437 +02:00 [INF] Try to select a specific service from the available options
+2025-04-04 22:07:51.114 +02:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content
+2025-04-04 22:08:18.205 +02:00 [INF] Clicks on the Services link
+2025-04-04 22:08:23.081 +02:00 [INF] Clicks on the button to open the droprown menu
+2025-04-04 22:08:23.590 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-04 22:08:23.777 +02:00 [INF] Clicked the Services dropdown item
+2025-04-04 22:08:24.410 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-04 22:08:30.740 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-04 22:08:30.755 +02:00 [ERR] Error message: Timed out after 5 seconds
+2025-04-04 22:08:31.203 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250404_220831.png
+2025-04-04 22:08:50.773 +02:00 [INF] Clicks on the Services link
+2025-04-04 22:08:56.003 +02:00 [INF] Clicks on the button to open the droprown menu
+2025-04-04 22:08:56.393 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-04 22:08:56.716 +02:00 [INF] Clicked the Services dropdown item
+2025-04-04 22:08:57.507 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-04 22:08:57.917 +02:00 [INF] Services dropdown item clicked
+2025-04-04 22:08:57.918 +02:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-04-04 22:09:03.835 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-04 22:09:03.835 +02:00 [ERR] Error message: Timed out after 5 seconds
+2025-04-04 22:09:04.238 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250404_220904.png
+2025-04-04 22:13:37.999 +02:00 [INF] Clicks on the Services link
+2025-04-04 22:13:45.957 +02:00 [INF] Clicks on the button to open the droprown menu
+2025-04-04 22:13:46.278 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-04 22:13:52.360 +02:00 [ERR] Scenario failed: Navigate to a Specific Service Section and Validate Content
+2025-04-04 22:13:52.377 +02:00 [ERR] Error message: Timed out after 5 seconds
+2025-04-04 22:13:53.018 +02:00 [INF] Screenshot saved to C:\Users\DELL\IdeaProjects\BDDFramework\BDDFramework_git\EpamPageTests\screenshot\screenshot_20250404_221353.png
+2025-04-04 22:14:11.908 +02:00 [INF] Clicks on the Services link
+2025-04-04 22:14:17.717 +02:00 [INF] Clicks on the button to open the droprown menu
+2025-04-04 22:14:18.174 +02:00 [INF] Wait for the Services dropdown item to be displayed and enabled
+2025-04-04 22:14:18.434 +02:00 [INF] Clicked the Services dropdown item
+2025-04-04 22:14:19.381 +02:00 [INF] Wait for Artificial intelligence dropdown item be displayed and enabled
+2025-04-04 22:14:19.792 +02:00 [INF] Services dropdown item clicked
+2025-04-04 22:14:19.794 +02:00 [INF] Clicks on the Artificial intelligence dropdown item
+2025-04-04 22:14:20.436 +02:00 [INF] Wait for the selected item to be displayed and enabled
+2025-04-04 22:14:21.237 +02:00 [INF] Artificial intelligence dropdown item clicked
+2025-04-04 22:14:21.602 +02:00 [INF] Try to select a specific service from the available options
+2025-04-04 22:14:25.369 +02:00 [INF] Scenario passed: Navigate to a Specific Service Section and Validate Content
