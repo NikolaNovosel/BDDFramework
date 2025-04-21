@@ -1,1 +1,2 @@
 # BDDFramework
+Page Objects remain unchanged as in TestAutomation Framework. I added Feature and StepDefinition classes to implement a BDD approach and I am using DriverSingleton as a factory for browser instances. The project also includes Hooks and HooksUtils. Hooks manage the WebDriver instance and utilize a service container for dependency injection. TestUtils encapsulates the code for taking screenshots and configuring the logger.
